@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohznmdev&theme=dark&show_icons=true)
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
