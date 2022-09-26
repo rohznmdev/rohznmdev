@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 August 2022 - To: 23 September 2022
+From: 22 August 2022 - To: 24 September 2022
 
-Total Time: 4 hrs 4 mins
+Total Time: 5 hrs
 
-JavaScript   2 hrs 5 mins    ████████████▓░░░░░░░░░░░░   51.24 %
-Ruby         1 hr 34 mins    █████████▓░░░░░░░░░░░░░░░   38.58 %
-JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-SCSS         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-C            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+JavaScript   3 hrs 1 min     ███████████████░░░░░░░░░░   60.33 %
+Ruby         1 hr 34 mins    ████████░░░░░░░░░░░░░░░░░   31.37 %
+JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+SCSS         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+C            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
