@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 August 2022 - To: 03 April 2023
+From: 22 August 2022 - To: 04 April 2023
 
-Total Time: 76 hrs 41 mins
+Total Time: 77 hrs 26 mins
 
-Assembly     28 hrs 6 mins   █████████░░░░░░░░░░░░░░░░   36.64 %
-JavaScript   13 hrs 45 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
-C            13 hrs 1 min    ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
-Python       9 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-Java         7 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-Ruby         1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Assembly     28 hrs 6 mins   █████████░░░░░░░░░░░░░░░░   36.29 %
+C            13 hrs 46 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+JavaScript   13 hrs 45 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
+Python       9 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+Java         7 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+Ruby         1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
