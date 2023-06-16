@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2022 - To: 13 June 2023
+From: 22 August 2022 - To: 14 June 2023
 
-Total Time: 162 hrs 4 mins
+Total Time: 165 hrs 19 mins
 
-C             39 hrs 59 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
-Assembly      29 hrs 59 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
-TypeScript    24 hrs 16 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
-Python        19 hrs 43 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-Java          16 hrs 39 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+C             39 hrs 59 mins  ██████░░░░░░░░░░░░░░░░░░░   24.19 %
+Assembly      29 hrs 59 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
+TypeScript    27 hrs 31 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+Python        19 hrs 43 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
+Java          16 hrs 39 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
 ```
 
 <!--END_SECTION:waka-->
