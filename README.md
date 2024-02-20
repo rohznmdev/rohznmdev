@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🌱 I’m currently learning React.js and Express.js
-### 🤔 I’m looking for Software Engineering Internships
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohznmdev&theme=dark&show_icons=true)
 
 <!--START_SECTION:waka-->
