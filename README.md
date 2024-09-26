@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2022 - To: 22 September 2024
+From: 22 August 2022 - To: 23 September 2024
 
-Total Time: 308 hrs 21 mins
+Total Time: 313 hrs 43 mins
 
-TypeScript    115 hrs 16 mins █████████▒░░░░░░░░░░░░░░░   37.38 %
-Python        47 hrs 22 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
-C             39 hrs 59 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-Assembly      29 hrs 59 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-JavaScript    22 hrs 25 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+TypeScript    115 hrs 16 mins █████████▒░░░░░░░░░░░░░░░   36.74 %
+Python        51 hrs 47 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+C             39 hrs 59 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Assembly      29 hrs 59 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+JavaScript    22 hrs 25 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
 ```
 
 <!--END_SECTION:waka-->
